@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nic-afterdark.github.io/notes-313zgx/sitemap.xml
